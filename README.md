@@ -33,5 +33,12 @@
     <td><a href="https://github.com/thutranhsodo" title="thutranhsodo">thutranhsodo</a></td>
     <td><a>22520368@gm.uit.edu.vn</a></td>
   </tr>
+  <tr>
+    <td>2</td>
+    <td>Cao Huyền My</td>
+    <td>22520896</td>
+    <td><a href="https://github.com/22520896" title="22520896">22520896</a></td>
+    <td><a>22520896@gm.uit.edu.vn</a></td>
+  </tr>
 </table>
 <h1><b>Đồ án môn học</b></h1>
